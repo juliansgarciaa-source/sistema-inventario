@@ -8,3 +8,10 @@ Proyecto para gestionar el inventario de productos de una empresa.
 
 ## Contacto
 Equipo de Desarrollo de Software
+
+## Categorías
+Las categorías disponibles inicialmente son:
+- Tecnología
+- Oficina
+- Papelería
+- Mobiliario
